@@ -1,0 +1,19 @@
+{
+    "name": "expand/menna-pkg",
+    "description": "pkg to convert kg to pounds",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Expand\\MennaPkg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Menna Helal",
+            "email": "menna.helal@expandcart.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
